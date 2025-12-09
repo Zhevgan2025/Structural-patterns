@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Structural patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B57CA4D5-3B9D-4E88-866D-DAB9D0B8C9BC}|Structural patterns..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\structural patterns\\task1_structuralpatterns\\proxy.pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57CA4D5-3B9D-4E88-866D-DAB9D0B8C9BC}|Structural patterns..csproj|solutionrelative:task1_structuralpatterns\\proxy.pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57CA4D5-3B9D-4E88-866D-DAB9D0B8C9BC}|Structural patterns..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\structural patterns\\task3_accesscontrolproxy\\realbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57CA4D5-3B9D-4E88-866D-DAB9D0B8C9BC}|Structural patterns..csproj|solutionrelative:task3_accesscontrolproxy\\realbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57CA4D5-3B9D-4E88-866D-DAB9D0B8C9BC}|Structural patterns..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\structural patterns\\task3_accesscontrolproxy\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57CA4D5-3B9D-4E88-866D-DAB9D0B8C9BC}|Structural patterns..csproj|solutionrelative:task3_accesscontrolproxy\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57CA4D5-3B9D-4E88-866D-DAB9D0B8C9BC}|Structural patterns..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\structural patterns\\task3_accesscontrolproxy\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57CA4D5-3B9D-4E88-866D-DAB9D0B8C9BC}|Structural patterns..csproj|solutionrelative:task3_accesscontrolproxy\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57CA4D5-3B9D-4E88-866D-DAB9D0B8C9BC}|Structural patterns..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\structural patterns\\task2_structuralpatterns_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57CA4D5-3B9D-4E88-866D-DAB9D0B8C9BC}|Structural patterns..csproj|solutionrelative:task2_structuralpatterns_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proxy.pattern.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Structural patterns\\Task1_StructuralPatterns\\Proxy.pattern.cs",
+              "RelativeDocumentMoniker": "Task1_StructuralPatterns\\Proxy.pattern.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Structural patterns\\Task1_StructuralPatterns\\Proxy.pattern.cs",
+              "RelativeToolTip": "Task1_StructuralPatterns\\Proxy.pattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T17:51:01.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RealBook.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Structural patterns\\Task3_AccessControlProxy\\RealBook.cs",
+              "RelativeDocumentMoniker": "Task3_AccessControlProxy\\RealBook.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Structural patterns\\Task3_AccessControlProxy\\RealBook.cs",
+              "RelativeToolTip": "Task3_AccessControlProxy\\RealBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:55:29.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Structural patterns\\Task3_AccessControlProxy\\User.cs",
+              "RelativeDocumentMoniker": "Task3_AccessControlProxy\\User.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Structural patterns\\Task3_AccessControlProxy\\User.cs",
+              "RelativeToolTip": "Task3_AccessControlProxy\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:40:56.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Structural patterns\\Task3_AccessControlProxy\\IBook.cs",
+              "RelativeDocumentMoniker": "Task3_AccessControlProxy\\IBook.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Structural patterns\\Task3_AccessControlProxy\\IBook.cs",
+              "RelativeToolTip": "Task3_AccessControlProxy\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:36:50.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Structural patterns\\Task2_StructuralPatterns_API\\Program.cs",
+              "RelativeDocumentMoniker": "Task2_StructuralPatterns_API\\Program.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Structural patterns\\Task2_StructuralPatterns_API\\Program.cs",
+              "RelativeToolTip": "Task2_StructuralPatterns_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:28:05.31Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

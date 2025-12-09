@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\task2_structuralpatterns_client\\httpoperatorapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|solutionrelative:httpoperatorapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\task2_structuralpatterns_client\\someimageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|solutionrelative:someimageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\task2_structuralpatterns_client\\flexibleapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|solutionrelative:flexibleapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\task2_structuralpatterns_client\\someentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|solutionrelative:someentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\task2_structuralpatterns_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\task2_structuralpatterns_client\\namecontainsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|solutionrelative:namecontainsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\task2_structuralpatterns_client\\ioperatorapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|solutionrelative:ioperatorapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\task2_structuralpatterns_client\\imageapiadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|solutionrelative:imageapiadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\task2_structuralpatterns_client\\ientityfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|solutionrelative:ientityfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\task2_structuralpatterns_client\\image api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|solutionrelative:image api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\task2_structuralpatterns_client\\crudapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|solutionrelative:crudapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|c:\\users\\dubic\\onedrive\\desktop\\c#learn\\task2_structuralpatterns_client\\activeentitiesfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F99DA2-B402-471F-9524-AE8E1BE52DF7}|Task2_StructuralPatterns_Client..csproj|solutionrelative:activeentitiesfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEntityFilter.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\IEntityFilter.cs",
+              "RelativeDocumentMoniker": "IEntityFilter.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\IEntityFilter.cs",
+              "RelativeToolTip": "IEntityFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:01:47.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HttpOperatorApi.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\HttpOperatorApi.cs",
+              "RelativeDocumentMoniker": "HttpOperatorApi.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\HttpOperatorApi.cs",
+              "RelativeToolTip": "HttpOperatorApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:41:48.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Image API.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\Image API.cs",
+              "RelativeDocumentMoniker": "Image API.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\Image API.cs",
+              "RelativeToolTip": "Image API.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T19:21:26.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageApiAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\ImageApiAdapter.cs",
+              "RelativeDocumentMoniker": "ImageApiAdapter.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\ImageApiAdapter.cs",
+              "RelativeToolTip": "ImageApiAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T19:20:14.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOperatorApi.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\IOperatorApi.cs",
+              "RelativeDocumentMoniker": "IOperatorApi.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\IOperatorApi.cs",
+              "RelativeToolTip": "IOperatorApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:39:50.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NameContainsFilter.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\NameContainsFilter.cs",
+              "RelativeDocumentMoniker": "NameContainsFilter.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\NameContainsFilter.cs",
+              "RelativeToolTip": "NameContainsFilter.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:03:00.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:49:19.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SomeEntity.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\SomeEntity.cs",
+              "RelativeDocumentMoniker": "SomeEntity.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\SomeEntity.cs",
+              "RelativeToolTip": "SomeEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:37:05.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SomeImageEntity.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\SomeImageEntity.cs",
+              "RelativeDocumentMoniker": "SomeImageEntity.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\SomeImageEntity.cs",
+              "RelativeToolTip": "SomeImageEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:10:24.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlexibleApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\FlexibleApiClient.cs",
+              "RelativeDocumentMoniker": "FlexibleApiClient.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\FlexibleApiClient.cs",
+              "RelativeToolTip": "FlexibleApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:03:27.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CrudApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\CrudApiClient.cs",
+              "RelativeDocumentMoniker": "CrudApiClient.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\CrudApiClient.cs",
+              "RelativeToolTip": "CrudApiClient.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:44:46.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActiveEntitiesFilter.cs",
+              "DocumentMoniker": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\ActiveEntitiesFilter.cs",
+              "RelativeDocumentMoniker": "ActiveEntitiesFilter.cs",
+              "ToolTip": "C:\\Users\\dubic\\OneDrive\\Desktop\\c#learn\\Task2_StructuralPatterns_Client\\ActiveEntitiesFilter.cs",
+              "RelativeToolTip": "ActiveEntitiesFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:02:33.556Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

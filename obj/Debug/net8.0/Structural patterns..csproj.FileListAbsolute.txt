@@ -1,0 +1,4 @@
+C:\Users\dubic\OneDrive\Desktop\c#learn\Structural patterns\obj\Debug\net8.0\Structural patterns..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dubic\OneDrive\Desktop\c#learn\Structural patterns\obj\Debug\net8.0\Structural patterns..AssemblyInfoInputs.cache
+C:\Users\dubic\OneDrive\Desktop\c#learn\Structural patterns\obj\Debug\net8.0\Structural patterns..AssemblyInfo.cs
+C:\Users\dubic\OneDrive\Desktop\c#learn\Structural patterns\obj\Debug\net8.0\Structural patterns..csproj.CoreCompileInputs.cache
